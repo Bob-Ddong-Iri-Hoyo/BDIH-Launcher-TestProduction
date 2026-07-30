@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.0-beta.1.staging.6",
+  "version": "1.0.0-beta.1.staging.7",
   "targetVersion": "1.0.0-beta.1",
-  "attempt": 6,
-  "tag": "v1.0.0-beta.1.staging.6+staging.beta",
+  "attempt": 7,
+  "tag": "v1.0.0-beta.1.staging.7+staging.beta",
   "channel": "beta",
   "sourceRepository": "Bob-Ddong-Iri-Hoyo/BDIH-Launcher",
-  "sourceCommit": "12269ed6fc216fa1a14c26a0193f6c0a5b3820ea",
-  "sourceRunId": "30502124542",
-  "sourceRunUrl": "https://github.com/Bob-Ddong-Iri-Hoyo/BDIH-Launcher/actions/runs/30502124542",
-  "createdAt": "2026-07-30T00:16:02Z",
+  "sourceCommit": "eafe4b4ac86c0749579c9422d5cb608f04f76bab",
+  "sourceRunId": "30504984671",
+  "sourceRunUrl": "https://github.com/Bob-Ddong-Iri-Hoyo/BDIH-Launcher/actions/runs/30504984671",
+  "createdAt": "2026-07-30T01:12:53Z",
   "promotedFrom": null
 }
